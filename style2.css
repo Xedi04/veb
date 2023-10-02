@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(99, 151, 99);
+}
+
+
+
+input{
+    font-style:italic;
+    background-color: rgb(208, 127, 228);
+}
+select{
+    background-color:rgb(208, 127, 228) ;
+}
+
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
